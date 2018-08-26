@@ -1,7 +1,7 @@
 {
-  "name": "@hypermediatech/mpa_ssm_import",
+  "name": "cognito_ssm_import",
   "version": "1.2.0",
-  "description": "imports mpa specific serverless outputs into SSM",
+  "description": "imports serverless outputs about cognito config into SSM",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
