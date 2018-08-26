@@ -18,7 +18,7 @@
     "operations"
   ],
   "author": "delProfundo bruno@hypermedia.tech",
-  "license": "UNLICENSED",
+  "license": "Apache-2.0",
   "homepage": "https://bitbucket.org/hypermediatech/mpa_ssm_import#readme",
   "dependencies": {
     "aws-sdk": "2.302.0",
