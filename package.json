@@ -1,0 +1,27 @@
+{
+  "name": "@hypermediatech/mpa_ssm_import",
+  "version": "1.2.0",
+  "description": "imports mpa specific serverless outputs into SSM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "importSSM": "./bin/cognito_ssm_import.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/hypermediatech/mpa_ssm_import.git"
+  },
+  "keywords": [
+    "mpa",
+    "operations"
+  ],
+  "author": "delProfundo bruno@hypermedia.tech",
+  "license": "UNLICENSED",
+  "homepage": "https://bitbucket.org/hypermediatech/mpa_ssm_import#readme",
+  "dependencies": {
+    "aws-sdk": "2.302.0",
+    "yamljs": "0.3.0"
+  }
+}
