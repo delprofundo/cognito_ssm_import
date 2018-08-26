@@ -11,15 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/hypermediatech/mpa_ssm_import.git"
+    "url": "git@github.com:delprofundo/cognito_ssm_import.git"
   },
   "keywords": [
-    "mpa",
     "operations"
   ],
   "author": "delProfundo bruno@hypermedia.tech",
   "license": "Apache-2.0",
-  "homepage": "https://bitbucket.org/hypermediatech/mpa_ssm_import#readme",
+  "homepage": "https://github.com/delprofundo/cognito_ssm_import#readme",
   "dependencies": {
     "aws-sdk": "2.302.0",
     "yamljs": "0.3.0"
