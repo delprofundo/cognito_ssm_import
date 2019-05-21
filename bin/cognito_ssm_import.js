@@ -3,6 +3,8 @@
 const stackOutputPath = `./.build/stackOuts.yaml`;
 const YAML = require( 'yamljs' );
 outputs = YAML.load( stackOutputPath );
+console.log( "STACK OUTPUT PATH ", stackOutputPath );
+console.log( "OUTPUTS : ", outputs );
 const DEPLOY_REGION = outputs.Region;
 const fs = require('fs');
 
