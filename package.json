@@ -1,6 +1,6 @@
 {
   "name": "cognito_ssm_import",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "imports serverless outputs about cognito config into SSM",
   "main": "index.js",
   "scripts": {
